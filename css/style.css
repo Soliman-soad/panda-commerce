@@ -1,0 +1,23 @@
+.panda-bg {
+    background-color: #FCEAE8;
+}
+
+.panda-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+.product img {
+    width: 120px;
+}
+
+section {
+    margin: 100px 0;
+}
+
+.panda-bag {
+    background-color: violet;
+}
